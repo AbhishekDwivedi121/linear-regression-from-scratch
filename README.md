@@ -1,0 +1,2 @@
+# linear-regression-from-scratch
+A complete end-to-end project on Linear and Multiple Linear Regression, implemented using both Scikit-Learn and Gradient Descent from scratch. Covers key concepts such as Multicollinearity, Bias-Variance Tradeoff, and Model Evaluation Metrics. Includes practical visualization, performance analysis, and mathematical explanation — perfect for data science beginners and interview preparation.
